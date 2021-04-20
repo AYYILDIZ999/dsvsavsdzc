@@ -1,0 +1,20 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Xate",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node chat-guard.js"
+  },
+  "dependencies": {
+    "@aloshai/mongosha": "^1.1.4",
+    "discord.js": "^12.5.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Xate"
+  ]
+}
